@@ -1,2 +1,4 @@
 nmap/
 sqlmap/requests/
+logs/
+venv/
