@@ -1,0 +1,78 @@
+[submodule "Droopy"]
+	path = Droopy
+	url = ./Droopy
+[submodule "certbot"]
+	path = certbot
+	url = ./certbot
+[submodule "discover"]
+	path = discover
+	url = ./discover
+[submodule "dnspop"]
+	path = dnspop
+	url = ./dnspop
+[submodule "enum4linux"]
+	path = enum4linux
+	url = ./enum4linux
+[submodule "etherpad-lite"]
+	path = etherpad-lite
+	url = ./etherpad-lite
+[submodule "exploit-database"]
+	path = exploit-database
+	url = ./exploit-database
+[submodule "fuzzdb"]
+	path = fuzzdb
+	url = ./fuzzdb
+[submodule "gitlist"]
+	path = gitlist
+	url = ./gitlist
+[submodule "gitrob"]
+	path = gitrob
+	url = ./gitrob
+[submodule "impacket"]
+	path = impacket
+	url = ./impacket
+[submodule "InSpy"]
+	path = InSpy
+	url = ./InSpy
+[submodule "lightbulb-framework"]
+	path = lightbulb-framework
+	url = ./lightbulb-framework
+[submodule "nishang"]
+	path = nishang
+	url = ./nishang
+[submodule "pastebin-monitor"]
+	path = pastebin-monitor
+	url = ./pastebin-monitor
+[submodule "php-webshells"]
+	path = php-webshells
+	url = ./php-webshells
+[submodule "repo-security-scanner"]
+	path = repo-security-scanner
+	url = ./repo-security-scanner
+[submodule "rtfm"]
+	path = rtfm
+	url = ./rtfm
+[submodule "rtl8812AU_8821AU_linux"]
+	path = rtl8812AU_8821AU_linux
+	url = ./rtl8812AU_8821AU_linux
+[submodule "sqlmap"]
+	path = sqlmap
+	url = ./sqlmap
+[submodule "testssl.sh"]
+	path = testssl.sh
+	url = ./testssl.sh
+[submodule "truffleHog"]
+	path = truffleHog
+	url = ./truffleHog
+[submodule "vncpwd"]
+	path = vncpwd
+	url = ./vncpwd
+[submodule "wafw00f"]
+	path = wafw00f
+	url = ./wafw00f
+[submodule "webshell"]
+	path = webshell
+	url = ./webshell
+[submodule "wpscan"]
+	path = wpscan
+	url = ./wpscan
